@@ -1,0 +1,10 @@
+* mathkit
+
+Pure math functions useful for games, 3D, and GL in general.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lispgames/mathkit.git   |
+| commit  | fd884f9  |
+| systems | mathkit |
+|---------+-------------------------------------------|
+
